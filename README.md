@@ -9,7 +9,7 @@
 
 ## 🌐 Base URL
 ```
-https://你的-vercel-專案名.vercel.app/api/v1
+https://hugo-api-v1.vercel.app/api/v1
 ```
 
 ## 🧠 支援模型 (Supported Models)
