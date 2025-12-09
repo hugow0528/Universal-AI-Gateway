@@ -60,7 +60,7 @@
 
 1.  登入你的 **GitHub** 帳號。
 2.  進入已準備的專案連結：
-    *   `[https://github.com/hugow0528/Universal-AI-Gateway]`
+    *   [https://github.com/hugow0528/Universal-AI-Gateway](https://github.com/hugow0528/Universal-AI-Gateway)
 3.  點擊頁面右上角的 **"Fork"** 按鈕。
 4.  在彈出的視窗中點擊 **"Create fork"**。
     *   *意義：這代表你將這份代碼「複印」了一份到你自己的名下，現在你有權修改及控制它。*
@@ -148,7 +148,7 @@ You need to copy the code prepared by the teacher to your own GitHub account.
 
 1.  Log in to your **GitHub** account.
 2.  Go to the project link provided by the teacher:
-    *   `https://github.com/hugow0528/Universal-AI-Gateway`
+    *   [https://github.com/hugow0528/Universal-AI-Gateway](https://github.com/hugow0528/Universal-AI-Gateway)
 3.  Click the **"Fork"** button in the top right corner.
 4.  Click **"Create fork"** in the pop-up window.
     *   *Meaning: This creates a copy of the code under your name, giving you permission to modify and control it.*
