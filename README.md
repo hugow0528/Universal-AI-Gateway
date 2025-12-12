@@ -122,7 +122,7 @@ main();
 ---
 ---
 
-# 🇺🇸 English Version
+# English Version
 
 This is a Serverless API Gateway designed to bypass geo-restrictions (e.g., in Hong Kong) for top-tier AI models like Google Gemini and Cerebras.
 
