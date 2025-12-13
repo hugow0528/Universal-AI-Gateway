@@ -254,6 +254,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 2.  **ATTRIBUTION REQUIREMENT:** Any redistribution, fork, or deployment of this software (whether in source or binary form) must explicitly credit the original author "**Hugo Wong**" in the documentation, "About" section, or footer of the derived work.
 
-3.  **NOTIFICATION REQUIREMENT:** If this software is deployed for public use or used as part of a public-facing service, the user is required to notify the copyright holder (Hugo Wong) via provided contact channels (Email: whugo9528@yahoo.com).
+3.  **NOTIFICATION REQUIREMENT:** If this software is deployed for public use or used as part of a public-facing service, the user is required to notify the copyright holder (Hugo Wong) via provided contact channels (Email: whugo0528@yahoo.com).
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
