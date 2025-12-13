@@ -116,7 +116,7 @@ main();
 ## 📬 聯絡方式 (Contact)
 
 如有任何問題、Bug 回報或授權通知，請透過以下方式聯絡：
-*   **Email:** whugo9528@yahoo.com
+*   **Email:** whugo0528@yahoo.com
 *   **GitHub Issues:** 在此儲存庫提交 Issue
 
 ---
@@ -237,7 +237,7 @@ This project includes teaching notes designed for students, explaining the princ
 ## 📬 Contact
 
 For any questions, bug reports, or license notifications, please contact via:
-*   **Email:** whugo9528@yahoo.com
+*   **Email:** whugo0528@yahoo.com
 *   **GitHub Issues:** Submit an issue in this repository.
 
 ---
